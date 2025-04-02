@@ -1,6 +1,6 @@
-from stack_data_structure import StackDataStructure
+from ds.my_stack import MyStack
 
-my_stack = StackDataStructure(4)
+my_stack = MyStack(4)
 
 choice = int(input("Enter your choice : "))
 

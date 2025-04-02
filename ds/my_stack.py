@@ -1,4 +1,4 @@
-class StackDataStructure: 
+class MyStack: 
     
     # Create stack or initialize a stack with some capacity
     
